@@ -1,2 +1,2 @@
 # Carreras-con-Impacto
-Hola, en este repositorio encontraras el codigo del analisis ejecutado del proyecto "Progreso en Modelos de Reconocimiento de Voz". 
+Hello, in this repository you will find the code of the executed analysis of the project “Progress in Speech Recognition Models”. 
